@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8c5b0440-01b9-448f-a545-ecfbe000a950
+
 # ⚽ Simulador Tático Dinâmico: Rastreamento de Dados de Jogo (22 Jogadores + Bola)
 
 Este projeto apresenta o desenvolvimento de um simulador tático interativo de futebol capaz de reproduzir frame a frame as coordenadas espaciais (X, Y) de 22 jogadores e da bola. O foco principal é demonstrar como dados estruturados de rastreamento (tracking data) podem ser transformados em visualizações dinâmicas de alto valor para comissões técnicas e analistas de desempenho.
